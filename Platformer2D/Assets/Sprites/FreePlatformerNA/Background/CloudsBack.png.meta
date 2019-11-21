@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 9b37ec196830a794d983554f5a9c7801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -37210481753236058
+    second: CloudsBack_0
+  - first:
+      213: -948466142001636470
+    second: CloudsBack_1
+  - first:
+      213: 3308939130153926442
+    second: CloudsBack_2
+  - first:
+      213: -279575029716668131
+    second: CloudsBack_3
+  - first:
+      213: 8252148798312590831
+    second: CloudsBack_4
+  - first:
+      213: -7681608421572863571
+    second: CloudsBack_5
+  - first:
+      213: -5296090351814871697
+    second: CloudsBack_6
+  - first:
+      213: 2826867826311904959
+    second: CloudsBack_7
+  - first:
+      213: 450117140122327672
+    second: CloudsBack_8
+  - first:
+      213: -2221086822634666989
+    second: CloudsBack_9
+  - first:
+      213: 2197563586263539792
+    second: CloudsBack_10
+  - first:
+      213: -4723081270783634924
+    second: CloudsBack_11
+  - first:
+      213: 3333286203090922442
+    second: CloudsBack_12
+  - first:
+      213: -1733849763243060116
+    second: CloudsBack_13
+  - first:
+      213: -4582915727023817744
+    second: CloudsBack_14
+  - first:
+      213: -7095337091117929185
+    second: CloudsBack_15
+  - first:
+      213: 2600693371135847689
+    second: CloudsBack_16
+  - first:
+      213: -7226994214843267898
+    second: CloudsBack_17
+  - first:
+      213: -7283051602055763859
+    second: CloudsBack_18
+  - first:
+      213: -1828290261029965529
+    second: CloudsBack_19
+  - first:
+      213: 6841829102286817230
+    second: CloudsBack_20
+  - first:
+      213: 2961466137714917783
+    second: CloudsBack_21
+  - first:
+      213: 3962957859513629520
+    second: CloudsBack_22
+  - first:
+      213: -7530437299371881003
+    second: CloudsBack_23
+  - first:
+      213: -6416819064117176779
+    second: CloudsBack_24
+  - first:
+      213: -3068430718153960549
+    second: CloudsBack_25
+  - first:
+      213: -4639103064447876984
+    second: CloudsBack_26
+  - first:
+      213: -2508883038679080304
+    second: CloudsBack_27
+  - first:
+      213: 3612580012935041076
+    second: CloudsBack_28
+  - first:
+      213: 7182252539122233997
+    second: CloudsBack_29
+  - first:
+      213: -6621478875213154351
+    second: CloudsBack_30
+  - first:
+      213: -8239621647961531173
+    second: CloudsBack_31
+  - first:
+      213: 1542776203640849992
+    second: CloudsBack_32
+  - first:
+      213: 1674928579115310194
+    second: CloudsBack_33
+  - first:
+      213: -4007797468560814803
+    second: CloudsBack_34
+  - first:
+      213: -8774034273271760899
+    second: CloudsBack_35
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloudsBack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 220
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3aa67e654bf9548b5f2f1069a76385
+      internalID: -37210481753236058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloudsBack_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 259
+        width: 329
+        height: 61
+      alignment: 9
+      pivot: {x: 0.49580717, y: 0.54392064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13896beb5efbdcc458f2b40677bffff8
+      internalID: -948466142001636470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
