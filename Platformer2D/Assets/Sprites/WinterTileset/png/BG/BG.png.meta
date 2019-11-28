@@ -5,6 +5,18 @@ TextureImporter:
   - first:
       213: -6695950386315148514
     second: BG_0
+  - first:
+      213: -7917263021958980417
+    second: BG_1
+  - first:
+      213: 8964642436447761022
+    second: BG_2
+  - first:
+      213: 6519570804262606229
+    second: BG_3
+  - first:
+      213: -8104493745418022295
+    second: BG_4
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -97,7 +109,7 @@ TextureImporter:
         width: 489
         height: 893
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -105,6 +117,90 @@ TextureImporter:
       bones: []
       spriteID: 9c4e6bd2e48c68e4bb78c0ffebeb6610
       internalID: -6695950386315148514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 893
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7828e26a53605e7448944fba8649d169
+      internalID: -7917263021958980417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 751
+        width: 1197
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76988f2f97cc3374dad8f03eaaff4f24
+      internalID: 8964642436447761022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 1800
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8514a69ade35247a0827299171028e
+      internalID: 6519570804262606229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1800
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943cd2ef35b960c459da4fde08e09b1d
+      internalID: -8104493745418022295
       vertices: []
       indices: 
       edges: []

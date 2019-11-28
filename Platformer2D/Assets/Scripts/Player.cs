@@ -13,27 +13,30 @@ public class Player : MonoBehaviour {
     [SerializeField]
     private float maxSpeed = 10;
 
+    private int health = 5;
 
     bool canJump = true;
-    [Header("Jump")]
+    [Header("Jump")] private int maxJump = 2;
     [SerializeField] float jumpVelocity = 2.5f;
     [SerializeField] float raycastJumpLength = 1f;
 
     [SerializeField] float timeStopJump = 0.1f;
     float timerStopJump = 0;
     [SerializeField] float jumpFallingModifier = 1;
+
+    enum State
+    {
+        IDLE,
+        RUN,
+        JUMP,
+        DEAD
+    }
+
+    private State state = State.IDLE;
     
-    
-    // Start is called before the first frame update
-    void Start() {
+    void Start() 
+    {
         body = GetComponent<Rigidbody2D>();
-/*
-        if (body != null) {
-            Debug.Log("Body founded!");
-        } else {
-            Debug.Log("No nody");
-        }
-  */      
     }
 
     void FixedUpdate() {
@@ -46,18 +49,21 @@ public class Player : MonoBehaviour {
         body.velocity = Vector2.ClampMagnitude(body.velocity, maxSpeed);
     }
 
-    void Update() {
+    void Update() 
+    {
+        
         direction = new Vector2(Input.GetAxis("Horizontal") * speed, body.velocity.y);
-
+               
         CheckJump();
 
     }
     
-    void CheckJump() {
+    void CheckJump() 
+    {
         timerStopJump -= Time.deltaTime;
         
-        if (Input.GetAxis("Jump") > 0.1f && canJump) {
-            Debug.Log("Jump");
+        if (Input.GetAxis("Jump") > 0.1f && canJump) 
+        {
             direction.y += jumpVelocity;
 
             canJump = false;
@@ -65,7 +71,6 @@ public class Player : MonoBehaviour {
             timerStopJump = timeStopJump;
         }
         
-        //Check if grounded
         RaycastHit2D hit = Physics2D.Raycast(transform.position, Vector2.down, raycastJumpLength, LayerMask.NameToLayer("Player"));
 
         if (timerStopJump <= 0) {
@@ -77,23 +82,12 @@ public class Player : MonoBehaviour {
         }
     }
     
-    void OnDrawGizmos() {
+    void OnDrawGizmos() 
+    {
         Gizmos.color = Color.blue;
         Gizmos.DrawLine((Vector2)transform.position, (Vector2)transform.position + Vector2.down * raycastJumpLength);
         
         Gizmos.DrawWireCube((Vector2) transform.position + Vector2.down * 0.5f, new Vector2(1f, 0.2f));
     }
-
-   /*
-     private void OnCollisionEnter(Collision2D other)
     
-    {
-        Debug.Log("FSAFASFAFA");
-        if (other.gameObject.tag == "Floor")
-        {
-            Debug.Log("COLISSSSSSSIIIONSSSS");
-        }
-
-    }
-*/
 }
