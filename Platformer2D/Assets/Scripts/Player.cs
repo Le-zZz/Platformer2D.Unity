@@ -7,6 +7,8 @@ public class Player : MonoBehaviour {
     private Rigidbody2D body;
     
     Vector2 direction;
+
+    public Animator animator;
     
     [SerializeField]
     private float speed = 1;
@@ -24,16 +26,6 @@ public class Player : MonoBehaviour {
     float timerStopJump = 0;
     [SerializeField] float jumpFallingModifier = 1;
 
-    enum State
-    {
-        IDLE,
-        RUN,
-        JUMP,
-        DEAD
-    }
-
-    private State state = State.IDLE;
-    
     void Start() 
     {
         body = GetComponent<Rigidbody2D>();
@@ -50,11 +42,11 @@ public class Player : MonoBehaviour {
     }
 
     void Update() 
-    {
+    { 
         
         direction = new Vector2(Input.GetAxis("Horizontal") * speed, body.velocity.y);
-               
-        CheckJump();
+     
+       CheckJump();
 
     }
     
@@ -76,6 +68,7 @@ public class Player : MonoBehaviour {
         if (timerStopJump <= 0) {
             if (hit.rigidbody != null) {
                 canJump = true;
+               
             } else {
                 canJump = false;
             }
