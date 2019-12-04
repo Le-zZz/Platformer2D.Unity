@@ -47,7 +47,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spike.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -130,7 +129,7 @@
       <workItem from="1575446073625" duration="7000" />
       <workItem from="1575446097337" duration="22000" />
       <workItem from="1575446142843" duration="2000" />
-      <workItem from="1575446173750" duration="7561000" />
+      <workItem from="1575446173750" duration="8164000" />
     </task>
     <servers />
   </component>
