@@ -8,7 +8,7 @@ public class Player : MonoBehaviour {
     
     Vector2 direction;
 
-    public Animator animator;
+    private Animator playerAnimation;
     
     [SerializeField]
     private float speed = 1;
@@ -29,6 +29,7 @@ public class Player : MonoBehaviour {
     void Start() 
     {
         body = GetComponent<Rigidbody2D>();
+        playerAnimation = GetComponent<Animator>();
     }
 
     void FixedUpdate() {
@@ -48,6 +49,8 @@ public class Player : MonoBehaviour {
      
        CheckJump();
 
+       playerAnimation.SetFloat("Speed",body.velocity.x);
+       playerAnimation.SetBool("OnGround", canJump);
     }
     
     void CheckJump() 
