@@ -6,33 +6,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/16.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/13/135248693b0ce6842b7df9ec6bc973c6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/13/135248693b0ce6842b7df9ec6bc973c6.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/15/159e63f79c22d954296ff947e1b4289c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/15/159e63f79c22d954296ff947e1b4289c.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe.info" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/45/45649e6163ccf584fb8b24b109cd81f1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/45/45649e6163ccf584fb8b24b109cd81f1.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4b0c9c3be964c7b4fbb7168516c2fdca" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4b/4b0c9c3be964c7b4fbb7168516c2fdca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a1/a1d5626d532da07478b9ae07e9284fb7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/a1/a1d5626d532da07478b9ae07e9284fb7.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b31bb2df9deb72448834078f066d1488" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/b3/b31bb2df9deb72448834078f066d1488.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c510d5bf46614f04fa1f3d82e2c0e5bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c5/c510d5bf46614f04fa1f3d82e2c0e5bb.info" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +24,10 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spike.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MovingPlatformVertical.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -59,9 +39,10 @@
         <option value="$PROJECT_DIR$/Assets/CharacterController2D.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerMovement.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/MovingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
+        <option value="$PROJECT_DIR$/Assets/MovingPlatformVertical.cs" />
       </list>
     </option>
   </component>
@@ -129,7 +110,7 @@
       <workItem from="1575446073625" duration="7000" />
       <workItem from="1575446097337" duration="22000" />
       <workItem from="1575446142843" duration="2000" />
-      <workItem from="1575446173750" duration="8164000" />
+      <workItem from="1575446173750" duration="9609000" />
     </task>
     <servers />
   </component>
