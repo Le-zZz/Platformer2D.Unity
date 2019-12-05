@@ -10,8 +10,8 @@
           <e p="CameraFollow.cs" t="Include" />
           <e p="MovingPlatform.cs" t="Include" />
           <e p="MovingPlatformVertical.cs" t="Include" />
-          <e p="Player.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerHealth.cs" t="Include" />
           <e p="Spike.cs" t="Include" />
           <e p="Timer.cs" t="Include" />
         </e>

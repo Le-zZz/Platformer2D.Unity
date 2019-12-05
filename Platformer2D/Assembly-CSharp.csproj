@@ -59,8 +59,8 @@
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
      <Compile Include="Assets\Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\Scripts\MovingPlatformVertical.cs" />
-     <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerHealth.cs" />
      <Compile Include="Assets\Scripts\Spike.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
  <Reference Include="Unity.Timeline.Editor">

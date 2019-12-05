@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    public GameObject player;       // Variable publique pour stocker la référence vers l'objet du joueur
+    [SerializeField] private GameObject player;       // Variable publique pour stocker la référence vers l'objet du joueur
 
 
     private Vector3 offset;         // Variable privée pour stocker le décalage entre le joueur et la caméra
