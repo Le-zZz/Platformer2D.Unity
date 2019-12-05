@@ -7,18 +7,14 @@
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4b0c9c3be964c7b4fbb7168516c2fdca" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4b/4b0c9c3be964c7b4fbb7168516c2fdca.info" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/metadata/8d/8d0e9c1d50c76084aa7f2a4e589b73c2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/8d/8d0e9c1d50c76084aa7f2a4e589b73c2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,10 +48,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Spike.cs" />
         <option value="$PROJECT_DIR$/Assets/MovingPlatformVertical.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Timer.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatformVertical.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Swing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
       </list>
     </option>
   </component>
@@ -126,6 +123,7 @@
       <workItem from="1575446173750" duration="10273000" />
       <workItem from="1575469612662" duration="3074000" />
       <workItem from="1575537279927" duration="322000" />
+      <workItem from="1575540040002" duration="9686000" />
     </task>
     <servers />
   </component>
