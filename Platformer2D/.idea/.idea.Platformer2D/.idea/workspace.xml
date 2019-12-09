@@ -2,70 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab6b4f11-7cfc-45a7-bfd5-2fc94724beba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Crate.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Crate.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Crystal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Crystal.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/IceBox.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/IceBox.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Igloo.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Igloo.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Sign_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Sign_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Sign_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Sign_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/SnowMan.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/SnowMan.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Stone.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Stone.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Tree_1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Tree_1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Tree_2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Object/Tree_2.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/1.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/10.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/10.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/11.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/11.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/12.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/12.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/13.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/13.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/14.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/14.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/15.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/15.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/16.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/16.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/17.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/17.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/18.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/18.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/3.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/3.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/4.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/4.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/5.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/5.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/6.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/6.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/7.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/7.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/8.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/8.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/9.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/WinterTileset/png/Tiles/9.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout-default.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/0f/0f41412e22f78964f89ce0c01e7cf23b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/0f/0f41412e22f78964f89ce0c01e7cf23b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/10/1059c8f035111c345baaf5fc8ab45057" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/10/1059c8f035111c345baaf5fc8ab45057" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/1d/1d16d2b3117660c4e99f6f31bdf44cb2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/1d/1d16d2b3117660c4e99f6f31bdf44cb2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/24/24aefed0e1b22744b9a767f6b3d3e27b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/24/24aefed0e1b22744b9a767f6b3d3e27b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/26/2660bd06ed856ca44be8745080c7a5fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/2c/2c7b6587c76ae9c4b9a69673180a3ae4" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/2c/2c7b6587c76ae9c4b9a69673180a3ae4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/30/3057c0afc0139624ab50e17d3f67a853" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/30/3057c0afc0139624ab50e17d3f67a853" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/38/381a1763ed4961445a735afa711937b2" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/38/381a1763ed4961445a735afa711937b2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/3b/3b158d1e74bb76d4bb7ed9bc468ef7a7" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3b/3b158d1e74bb76d4bb7ed9bc468ef7a7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/3c/3c03a4abe0289e7409f9710d1ab8b1e1" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/3c/3c03a4abe0289e7409f9710d1ab8b1e1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/49/49060dc1a334d894791453f2937282e6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/49/49060dc1a334d894791453f2937282e6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/4a/4a3f1628c015c3d4c816b87605c9686c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/4a/4a3f1628c015c3d4c816b87605c9686c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/57/5794189b67dc33c438080eb17b4be7cc" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/57/5794189b67dc33c438080eb17b4be7cc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/5f/5fa33269bc4c52242a37278dba2751b6" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/5f/5fa33269bc4c52242a37278dba2751b6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/65/6579c7ba9f0c8894fa9d58f45b466780" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/65/6579c7ba9f0c8894fa9d58f45b466780" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/6c/6c61ad1bf3245184ab37d4c431b3b907" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/6c/6c61ad1bf3245184ab37d4c431b3b907" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/75/75106ff7695fed04a818b18ba34417a8" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/75/75106ff7695fed04a818b18ba34417a8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/83/8382072d52f30444e894394ea0c30cae" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/83/8382072d52f30444e894394ea0c30cae" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/9d/9d871de0dff2e8d448093125f16f64f3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/9d/9d871de0dff2e8d448093125f16f64f3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/ac/ac54ce78b87c44e47b26f2a660ea9cc9" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/ac/ac54ce78b87c44e47b26f2a660ea9cc9" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/bd/bd530155638d0bd4081afa4b696767ee" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/bd/bd530155638d0bd4081afa4b696767ee" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c2/c2dcd1e27d1e2b943881ecf52dd35689" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c2/c2dcd1e27d1e2b943881ecf52dd35689" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/c9/c94e38425dc80ce469538cd44b174f89" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/c9/c94e38425dc80ce469538cd44b174f89" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/d8/d805f453ff15fe74fbf9ed3e16bed42c" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d8/d805f453ff15fe74fbf9ed3e16bed42c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/d9/d9c4ddd11e0ef8048967d0d719913faa" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/d9/d9c4ddd11e0ef8048967d0d719913faa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/f5/f5a14879dc8a48d4bb4c2d8250f4685b" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f5/f5a14879dc8a48d4bb4c2d8250f4685b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/metadata/f8/f88fcd6575c491c4e8a65d22b6557de7" beforeDir="false" afterPath="$PROJECT_DIR$/Library/metadata/f8/f88fcd6575c491c4e8a65d22b6557de7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Spike.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatformVertical.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Timer.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Swing.cs" root0="FORCE_HIGHLIGHTING" />
@@ -105,6 +52,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
       </list>
     </option>
   </component>
@@ -177,6 +125,7 @@
       <workItem from="1575537279927" duration="322000" />
       <workItem from="1575540040002" duration="11287000" />
       <workItem from="1575563827326" duration="598000" />
+      <workItem from="1575848427074" duration="2534000" />
     </task>
     <servers />
   </component>
