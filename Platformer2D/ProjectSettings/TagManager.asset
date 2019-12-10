@@ -42,6 +42,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Snow
+  - name: BG
+    uniqueID: 464649319
+    locked: 0
+  - name: Decor
+    uniqueID: 486670487
+    locked: 0
+  - name: Platform
+    uniqueID: 4121415233
+    locked: 0
+  - name: Player
+    uniqueID: 1906832659
+    locked: 0
+  - name: HUB
     uniqueID: 1281174511
     locked: 0

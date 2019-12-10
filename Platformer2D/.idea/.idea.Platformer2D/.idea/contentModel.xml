@@ -19,7 +19,7 @@
           <e p="PauseMenu.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="PlayerHealth.cs" t="Include" />
-          <e p="Swing.cs" t="Include" />
+          <e p="Timer.cs" t="Include" />
           <e p="Trap.cs" t="Include" />
         </e>
       </e>
