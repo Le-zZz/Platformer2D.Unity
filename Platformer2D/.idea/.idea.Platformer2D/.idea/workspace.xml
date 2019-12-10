@@ -6,11 +6,12 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Platformer2D/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/5d26fb-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/e336bc-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,14 +23,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Health.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Swing.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PlayerHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FallingObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BoxWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Trap.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatformVertical.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CheckWin.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FallingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,13 +54,21 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatformVertical.cs" />
         <option value="$PROJECT_DIR$/Assets/Swing.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" />
         <option value="$PROJECT_DIR$/Assets/PauseMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
         <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PauseMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/FallingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthManagement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FallingObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Trap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Health.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BoxWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CheckWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Trap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHealth.cs" />
       </list>
     </option>
   </component>
@@ -127,7 +142,7 @@
       <workItem from="1575537279927" duration="322000" />
       <workItem from="1575540040002" duration="11287000" />
       <workItem from="1575563827326" duration="598000" />
-      <workItem from="1575848427074" duration="11763000" />
+      <workItem from="1575848427074" duration="24179000" />
     </task>
     <servers />
   </component>
