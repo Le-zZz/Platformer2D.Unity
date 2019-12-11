@@ -11683,6 +11683,7 @@ MonoBehaviour:
   heart1: {fileID: 1961876500}
   heart2: {fileID: 1733433768}
   heart3: {fileID: 1151309688}
+  player: {fileID: 846091777}
   deadMenu: {fileID: 841254232}
   winMenu: {fileID: 814783245}
 --- !u!60 &846091780
@@ -30649,6 +30650,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_FontData.m_MaxSize
       value: 300
+      objectReference: {fileID: 0}
+    - target: {fileID: 6426851630262346935, guid: 37f696c8aee45be4e9b1c1646e090b93,
+        type: 3}
+      propertyPath: Loop
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 6426851630965479200, guid: 37f696c8aee45be4e9b1c1646e090b93, type: 3}
